@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="bg_screen1">#BDB883</color>
+    <color name="bg_screen2">#AAE6E1</color>
+    <color name="bg_screen3">#F4DDB9</color>
+    <color name="bg_screen4">#CAECA3</color>
+    <color name="theme_color">#a9325c</color>
+    <color name="tt">#f3b344</color>
+    <array name="array_dot_active">
+        <item>#F0E9A9</item>
+        <item>#ABEEE5</item>
+        <item>#F1C98D</item>
+        <item>#D4F1B1</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>#DFC90B</item>
+        <item>#0C917E</item>
+        <item>#BE7A15</item>
+        <item>#619C1D</item>
+    </array>
+</resources>
